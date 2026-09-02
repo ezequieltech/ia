@@ -14,7 +14,7 @@ const perguntas = [
         afirmacao: "afirmacao"
       },
       {
-        texto: "Isso é maravilhoso!"
+        texto: "Isso é maravilhoso!",
         afirmacao: "afirmacao"
       }
        
@@ -30,7 +30,7 @@ const perguntas = [
         afirmacao: "afirmacao"
       },
       {
-        texto:"Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema."
+        texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
         afirmacao: "afirmacao"
       }
        
